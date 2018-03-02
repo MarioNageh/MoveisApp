@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies app</string>
+
+
+    <string name="item_Most_Popular">Most Popular</string>
+    <string name="item_Top_Rated">Top Rated</string>
+
+
+    <string name="No_Internet">No Internet Connetion</string>
+    <string name="NoMoreFilms">No More Movies GoodLuck</string>
+    <string name="refresh">Refresh Connection</string>
+    <string name="Polt_Synopsis">Polt Synopsis :</string>
+
+</resources>
